@@ -4,7 +4,7 @@
     <img src="./.github/assets/logo.png" alt="Mihon logo" title="Mihon logo" width="80"/>
 </a>
 
-# TachiFU
+# TachiFU Preview
 
 ### Full-featured reader
 Discover and read manga, webtoons, comics, and more – easier than ever on your e-reader.
