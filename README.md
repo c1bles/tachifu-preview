@@ -1,10 +1,10 @@
 <div align="center">
 
-<a href="https://e-mihon.vercel.app/">
+<a href="https://furead.netlify.app/a/tachifu">
     <img src="./.github/assets/logo.png" alt="Mihon logo" title="Mihon logo" width="80"/>
 </a>
 
-# E-Mihon
+# TachiFU
 
 ### Full-featured reader
 Discover and read manga, webtoons, comics, and more – easier than ever on your e-reader.
@@ -18,7 +18,7 @@ Discover and read manga, webtoons, comics, and more – easier than ever on your
 
 ## Download
 
-[![E-Mihon Stable](https://img.shields.io/github/release/e-mihon/e-mihon.svg?maxAge=3600&label=Stable&labelColor=06599d&color=043b69)](https://mihon.app/download)
+[![TachiFU Stable](https://img.shields.io/github/release/e-mihon/e-mihon.svg?maxAge=3600&label=Stable&labelColor=06599d&color=043b69)](https://mihon.app/download)
 
 *Requires Android 8.0 or higher.*
 
